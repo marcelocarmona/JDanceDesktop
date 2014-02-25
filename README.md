@@ -21,3 +21,6 @@ Instalación
 >El archivo conf.properties contiene variables de inicialización
 
 >Documentación http://mclo.github.io/JDanceDesktop/
+
+![gui] (http://mclo.github.io/JDanceDesktop/images/jdance_gui.png)
+![gui] (http://mclo.github.io/JDanceDesktop/images/jdance_gui2.png)
